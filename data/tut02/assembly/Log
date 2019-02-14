@@ -1,0 +1,44 @@
+Thu Jan 31 20:08:42 2019
+ velveth data/tut02/assembly 31 -short -fastq raw_reads1.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Thu Jan 31 20:09:37 2019
+ velvetg data/tut02/assembly/ -scaffolding no -read_trkg yes -amos_file yes -exp_cov auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 49.636559
+Final graph has 1114 nodes and n50 of 20504, max 110187, total 4546063, using 1253389/1257935 reads
+Thu Feb  7 02:15:12 2019
+ velveth data/tut02/assembly 31 -short -fastq raw_reads1.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Thu Feb  7 02:16:14 2019
+ velvetg data/tut02/assembly/ -scaffolding no -read_trkg yes -amos_file yes -exp_cov auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 49.636559
+Final graph has 1114 nodes and n50 of 20504, max 110187, total 4546063, using 1253389/1257935 reads
